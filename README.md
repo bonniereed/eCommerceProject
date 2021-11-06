@@ -16,6 +16,6 @@ The end user will sign in to mysql, source the database, then source the seeds w
 
 # Credits:
 
-Credit is due to the technologies used and listed aboce and yours truly.
+Credit is due to the technologies used and listed above and yours truly.
 
 https://user-images.githubusercontent.com/46511972/140594039-481f797b-93f1-40b4-8ec9-ba5845dc3e88.mp4
